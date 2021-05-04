@@ -6,7 +6,7 @@ Alfan Adi Chandra
 ## Label
 ![enter image description here](https://i.ibb.co/41VJ6ms/image.png)
 
-## Plain Text Edit
+## List Widget
 ![enter image description here](https://i.ibb.co/JFLHXvs/image.png)
 
 ## Label
