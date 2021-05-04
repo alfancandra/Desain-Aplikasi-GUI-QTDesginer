@@ -3,11 +3,20 @@
 Alfan Adi Chandra
 19104026
 
-## Calender Widget
-![enter image description here](https://i.ibb.co/pKLJyJ0/image.png)
+## Label
+![enter image description here](https://i.ibb.co/41VJ6ms/image.png)
 
-## Styles
+## Plain Text Edit
+![enter image description here](https://i.ibb.co/JFLHXvs/image.png)
 
-![enter image description here](https://i.ibb.co/YbVs53f/image.png)
+## Label
+![enter image description here](https://i.ibb.co/8cLGXhq/image.png)
 
+## Line Edit
+![enter image description here](https://i.ibb.co/ZVp2sGq/image.png)
 
+## Push Button
+![enter image description here](https://i.ibb.co/99ddWXG/image.png)
+
+## Widget
+![enter image description here](https://i.ibb.co/CnDWy8P/image.png)
